@@ -230,15 +230,3 @@ This project is open source and released under the **MIT License**.
 <p align="center">
 <strong>Built with precision. Inspired by VS Code. Powered by the browser.</strong>
 </p>
-
----
-
-If you want, I can next:
-
-* Add **architecture diagrams**
-* Write a **college project report**
-* Create **screenshots + GIF documentation**
-* Add **performance benchmarks**
-* Prepare a **resume-ready project description**
-
-Just tell me.
